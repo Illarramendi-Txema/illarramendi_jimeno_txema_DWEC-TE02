@@ -1,0 +1,36 @@
+
+{
+    "socios": [
+      {
+        "id": 1,
+        "nombre": "Aritz",
+        "apellido": "Elustondo"
+      },
+      {
+        "id": 2,
+        "nombre": "Oier",
+        "apellido": "Uzkudun"
+      },
+      {
+        "id": 3,
+        "nombre": "Maitane",
+        "apellido": "Saiz"
+      },
+      {
+        "id": 4,
+        "nombre": "Idoia",
+        "apellido": "Otaegi"
+      },
+      {
+        "id": 5,
+        "nombre": "Luis",
+        "apellido": "González"
+      },
+      {
+        "id": 6,
+        "nombre": "Eneko",
+        "apellido": "Urzelai"
+      }
+    ]
+  }
+  

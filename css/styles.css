@@ -1,0 +1,19 @@
+*{
+    margin-bottom: 2vh;
+    box-sizing: border-box;
+}
+
+.contenido{
+    margin: 10vh;
+    padding: 5%;
+    background-color:#d1d1d1;
+}
+
+.cont_opciones{
+    display: flex;
+    flex-direction: row;
+}
+
+.botones{
+    margin-right: 2em;
+}
